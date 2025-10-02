@@ -14,7 +14,9 @@ pip install -r requirements.txt
 3: Edit .env
 Edit the env where the cloned folder is (add your secrets)
 
-4:Run This To start your Bot
+4:Open The .Bat file
+
+5: Run this to start your bot
 ```
 python run.py
 ```
